@@ -28,7 +28,7 @@ PA|deg|Position angle of the host galaxy|
 Morphology||Morphology of the host galaxy, defiend by de vvv|
 Distance|Mpc|Distance to the host galaxy|
 SFR|<img src="https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AM_%5Codot%2F%7B%5Crm+yr%7D%0A%5Cend%7Balign%2A%7D%0A" alt="\begin{align*}M_\odot/{\rm yr}\end{align*}">|Star formation rate of the host galaxy|
-Stellar_Mass|$M_\odot$|Stellar mass of the host galaxy|
+Stellar_Mass|![\begin{align*}M_\odot\end{align*}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AM_%5Codot%0A%5Cend%7Balign%2A%7D%0A)|Stellar mass of the host galaxy|
 Galaxy_Catalog||Identification of the parent galaxy catalog. LVG: _LVG_ Catalog, IRAS: _IRAS_ Catalog|
 
  
