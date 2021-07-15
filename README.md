@@ -8,6 +8,7 @@ We construct a new catalog of extragalactic X-ray binaries (XRBs) utilizing the 
 
 - Main Catalog (Chandra data only)
   - [FITS](./ExB_Catalog_CSC2_compact.fits)/[Ascii](./ExB_Catalog_CSC2_compact.dat)
+  - Used for XRB XLF construction in the paper.
   
 - Full Catalog (Chandra, XMM-Newton, & Swift data)
   - [FITS](./ExB_Catalog_CXS_compact.fits)/[Ascii](./ExB_Catalog_CXS_compact.dat)
